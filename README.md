@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page
 
-![Design preview for the Recipe page coding challenge](./preview.jpg)
+![Design preview for the Recipe page coding challenge](./mypreview.png)
 
 ## Welcome! 👋
 
@@ -11,12 +11,9 @@
 
 Build a recipe webpage that closely matches the given design using HTML and CSS.
 
-## Screenshot
-
-![](assets/images/mypreview.png)
-
 ## Links
 
-- Solution URL: [Add solution URL here](https://github.com/dulmisliyanage/Recipe-page)
-- Live Site URL: [Add live site URL here](https://dulmisliyanage.github.io/Recipe-page/)
+- Solution URL: [https://github.com/dulmisliyanage/Recipe-page](https://github.com/dulmisliyanage/Recipe-page)
+- Live Site URL: [https://dulmisliyanage.github.io/Recipe-page/](https://dulmisliyanage.github.io/Recipe-page/)
+
 
