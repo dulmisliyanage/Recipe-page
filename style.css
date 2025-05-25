@@ -1,0 +1,55 @@
+body{
+    background-color: #e6c989;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+    font-family:YoungSerif-Regular;
+    src: url('assets/fonts/YoungSerif-Regular');
+}
+
+@font-face {
+    font-family:Outfit-VariableFont_wght;
+    src: url('assets/fonts/outfit/Outfit-VariableFont_wght.ttf');
+}
+.content{
+    background-color: white;
+    max-width: 800px;
+    margin: 50px auto;
+    padding:30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.prep-time{
+    background-color: lightgray;
+    max-width: 800px;
+    margin: 50px auto;
+    padding:30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+h1,h3{
+    font-family: 'YoungSerif' , serif;
+}
+h3{
+   color:lightcoral;
+}
+p,ul,ol,table{
+    font-family:'Outfit-VariableFont_wght',sans-serif;
+}
+.content img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+ table, th, td {
+    border: 1px solid #000;
+    padding: 10px;
+    text-align: left;
+ }
